@@ -1,2 +1,0 @@
-# Angelsingularity
-web AS
